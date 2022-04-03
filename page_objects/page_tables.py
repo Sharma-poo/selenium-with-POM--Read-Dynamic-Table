@@ -1,0 +1,5 @@
+dyamic_table = "//table[@class='dataTable']"
+columns = "//table[@class='dataTable']/thead/tr/th"
+table_rows = "//table[@class='dataTable']/tbody/tr"
+table_colums_headers = "//table[@class= 'dataTable']/thead//th"
+page_element = "div[class='wow fadeInUp col-md-6 animated']"
